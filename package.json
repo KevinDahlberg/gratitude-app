@@ -1,0 +1,35 @@
+{
+  "name": "gratitude-app",
+  "version": "1.0.0",
+  "description": "full stack application using react and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinDahlberg/gratitude-app.git"
+  },
+  "keywords": [
+    "React",
+    "Node"
+  ],
+  "author": "Kevin Dahlberg",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/KevinDahlberg/gratitude-app/issues"
+  },
+  "homepage": "https://github.com/KevinDahlberg/gratitude-app#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "webpack": "^3.5.5"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
