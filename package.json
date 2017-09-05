@@ -29,6 +29,11 @@
     "webpack": "^3.5.5"
   },
   "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "passport": "^0.4.0",
+    "path": "^0.12.7",
+    "pg": "^7.3.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
   }
